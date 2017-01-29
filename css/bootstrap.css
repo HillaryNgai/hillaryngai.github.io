@@ -1973,6 +1973,9 @@ pre code {
   .col-md-1 {
     width: 8.33333333%;
   }
+  .col-md-0 {
+    width: 5.55555555667%;
+  }
   .col-md-pull-12 {
     right: 100%;
   }
