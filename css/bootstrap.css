@@ -6758,3 +6758,12 @@ button.close {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
+.bottom-spacing {
+  padding-bottom:3%;
+}
+.round-corners {
+    border-radius: 25%;
+    border: 2px solid #222;
+    padding: 20px; 
+    margin: auto;
+}
